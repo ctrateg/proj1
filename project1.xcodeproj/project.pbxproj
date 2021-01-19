@@ -42,7 +42,7 @@
 		1BA2B4822573BB8100AB2982 = {
 			isa = PBXGroup;
 			children = (
-				1BA2B48D2573BB8100AB2982 /* project5 */,
+				1BA2B48D2573BB8100AB2982 /* project1 */,
 				1BA2B48C2573BB8100AB2982 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1BA2B48D2573BB8100AB2982 /* project5 */ = {
+		1BA2B48D2573BB8100AB2982 /* project1 */ = {
 			isa = PBXGroup;
 			children = (
 				1BA2B48E2573BB8100AB2982 /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				1BA2B49C2573BB8600AB2982 /* Info.plist */,
 				1BA2B4A32573CA2100AB2982 /* start.txt */,
 			);
-			path = project5;
+			path = project1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1BA2B4862573BB8100AB2982 /* Build configuration list for PBXProject "project5" */;
+			buildConfigurationList = 1BA2B4862573BB8100AB2982 /* Build configuration list for PBXProject "project1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1BA2B4862573BB8100AB2982 /* Build configuration list for PBXProject "project5" */ = {
+		1BA2B4862573BB8100AB2982 /* Build configuration list for PBXProject "project1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1BA2B49D2573BB8600AB2982 /* Debug */,
